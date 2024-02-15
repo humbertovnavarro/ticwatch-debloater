@@ -1,6 +1,5 @@
 # Ticwatch E3 Debloat Tool
-only tested on ticwatch e3.
-only disables the apps.
-see https://www.reddit.com/r/WearOS/comments/pmqfrl/how_to_disable_bloatware_to_improve_performance/
+Designed for tickwatch e3 but may work on others.
+Run after updates.
 
-under active development please don't use this, you will brick your watch
+see https://www.reddit.com/r/WearOS/comments/pmqfrl/how_to_disable_bloatware_to_improve_performance/
